@@ -1,0 +1,6 @@
+﻿place,similar palces in order,,,
+chicken&beer,pasta&wine,kimbop,soju,whiskey
+soju,chicken&beer,whiskey,pasta&wine,kimbop
+pasta&wine,chicken&beer,whiskey,soju,kimbop
+whiskey,pasta&wine,soju,chicken&beer,kimbop
+kimbop,chicken&beer,pasta&wine,soju,whiskey
